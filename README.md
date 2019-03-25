@@ -3,3 +3,5 @@ Preconditions:<br>java JDK installed and properly configured [Oracle HowTo](http
 
 How to launch tests from command line.<br>Open project containing folder and execute following <br> for unix `./gradlew test` <br> for Windows `gradlew.bat test`
 Report located at project folder under build/reports/tests/test/<timestamp>.html
+  
+  Test documentation according to task available [here](https://docs.google.com/spreadsheets/d/1EGasZz63Js3aXJmP_SPAJlbE15-0cCz1Ic6WeP2zZ1s/edit#gid=0)
